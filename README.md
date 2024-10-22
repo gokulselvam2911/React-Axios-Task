@@ -4,9 +4,9 @@ This project is designed to demonstrate CRUD operations on user data using React
 
 ## Preview
 
-[![User Management App Preview](https://github.com/yourusername/user-management-app/blob/main/src/assets/preview.png)](https://your-live-app-url)
+[![User Management App Preview](https://github.com/gokulselvam2911/React-Axios-Task/blob/main/src/assets/crud-axios-1.png?raw=true)](https://react-axios-crud-task-gkl.netlify.app/)
 
-**[View Live Preview](https://your-live-app-url)**
+**[View Live Preview](https://react-axios-crud-task-gkl.netlify.app/)**
 
 ## Project Overview
 
@@ -30,4 +30,4 @@ The application allows users to manage a list of users by performing CRUD operat
 
 The application is deployed on Netlify. You can view the live version of the application by visiting the following link:
 
-[Live Application](https://your-live-app-url)
+[Live Application](https://react-axios-crud-task-gkl.netlify.app/)
